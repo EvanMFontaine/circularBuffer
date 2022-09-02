@@ -1,0 +1,25 @@
+{
+    "name": "circularBuffer",
+    "version": "1.0.0",
+    "description": "a circular buffer template for C++",
+    "keywords": "Circular Buffer",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/EvanMFontaine/circularBuffer"
+    },
+    "authors":
+    [
+      {
+        "name": "Evan Fontaine",
+        "email": "evanmarshfontaine@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/EvanMFontaine/circularBuffer",
+    "dependencies": {
+    },
+    "frameworks": "arduino",
+    "platforms": "ESP32"
+  }
