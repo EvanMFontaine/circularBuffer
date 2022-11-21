@@ -1,5 +1,5 @@
 {
-    "name": "circularBuffer",
+    "name": "genericCircularBuffer",
     "version": "1.0.0",
     "description": "a circular buffer template for C++",
     "keywords": "Circular Buffer",
